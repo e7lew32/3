@@ -1083,7 +1083,7 @@
       "widgets_values": [
         768,
         512,
-        97,
+        60,
         1
       ]
     },
@@ -1157,7 +1157,7 @@
         }
       },
       "widgets_values": [
-        97,
+        60,
         25,
         1
       ]
@@ -1930,7 +1930,7 @@
         }
       },
       "widgets_values": [
-        121,
+        60,
         "fixed"
       ]
     },
@@ -4518,7 +4518,7 @@
       },
       "27": {
         "inputs": {
-          "value": 105
+          "value": 60
         },
         "class_type": "INTConstant",
         "_meta": {
